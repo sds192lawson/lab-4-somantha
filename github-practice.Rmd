@@ -4,7 +4,7 @@ subtitle: "SDS 192"
 author: 
 - name: Samantha Kotkin
   affiliation: Smith College
-- name: Author Two
+- name: Nandir Altansukh
   affiliation: Smith College
 - name: Sophia Mu
   affiliation: Smith College

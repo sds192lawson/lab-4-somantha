@@ -41,6 +41,7 @@ pioneer_valley_2013 <- read.csv("https://raw.githubusercontent.com/SDS-192-Intro
 dim(pioneer_valley_2013)
 ```
 
+
 2. Check column names
 
 ```{r}
